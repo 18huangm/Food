@@ -4,7 +4,6 @@ text-align: center;
 h2 {
 text-align: center;
 }
-#nav{
 ul {
     list-style-type: none;
     margin: 0;
@@ -32,4 +31,4 @@ li a:hover:not(.active) {
 .active {
     background-color: #4CAF50;
 }
-}
+
